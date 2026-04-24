@@ -26,7 +26,7 @@ This project presents an interactive Power BI dashboard designed to analyze labo
 - Microsoft Excel
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](<img width="1920" height="1050" alt="Capture2" src="https://github.com/user-attachments/assets/656da382-6b6b-4573-ac62-b17bbea595cb" />)
+<img width="1920" height="1050" alt="Capture2" src="https://github.com/user-attachments/assets/ab4f4b36-fcaa-4b3a-b36d-bc8c500d9ee6" />
 
 ## 📁 Files Included
 - Power BI file (.pbix)
